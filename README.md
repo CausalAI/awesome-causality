@@ -1,7 +1,11 @@
 # Awesome Causality
 
+因果资料收集
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 
 Resources related to causality.
 This awesome list is different from other lists as it tries to compile major resources related to causality in one place under different categories. 
@@ -64,6 +68,7 @@ These list contain a more focused compilation of algorithms and data related to 
 
 ## Tutorials
 
+* [CompSci 590.6, Understanding	Data: Theory	and	Applications Lecture	15 Causality	in	AI Instructor:	Sudeepa Roy Email:	sudeepa@cs.duke.edu](https://www2.cs.duke.edu/courses/fall15/compsci590.6/Lectures/Lecture-15.pdf)
 * [ICML 2016 Tutorial Causal Inference for Observational Studies](https://cs.nyu.edu/~shalit/tutorial.html)
 * [KDD 2018 Causal Inference Tutorial](https://causalinference.gitlab.io/kdd-tutorial/)
 * [Joris Mooij ML2 Causality](https://web.archive.org/web/20190312053009/https://drive.google.com/file/d/0B2DZf1QHTotxX2RiNXJ0NUwwekk/edit)
